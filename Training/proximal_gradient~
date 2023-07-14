@@ -1,0 +1,12 @@
+N = 248;
+r = 4;
+M = 62;
+
+x = ones((N, 1));
+y = zeros((M, 1));
+
+
+x_old = x;
+tau = 1e-3;
+epsilon = 1e-5;
+x_new 
